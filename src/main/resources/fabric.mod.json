@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "name": "Meteor Client",
-  "id": "meteor-client",
+  "name": "embeddium",
+  "id": "embeddium",
   "version": "${version}",
-  "description": "Based utility mod.",
+  "description": "performance mod.",
   "authors": [
     "MineGame159",
     "squidoodly",
